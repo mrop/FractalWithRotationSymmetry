@@ -10,6 +10,13 @@ The color is determined using a histogram of the distribution.
 
 ![img](http://latex.codecogs.com/svg.latex?f%28x_i%29%3Df%28x_%7Bi-1%7D%29)
 
+# Installation
+
+* Use python 2.7.x
+* install [Pillow](https://pillow.readthedocs.io/en/stable/) 
+* install [numpy](https://www.numpy.org/)
+
+
 # Usage
 
 Usage: python Icon --config==[FILENAME]
