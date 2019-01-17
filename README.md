@@ -23,3 +23,8 @@ Example: python Icon -c exampleA.cfg -v
   [FILENAME] is the absolute path of the config file
 
 Report bugs to <mrop@xs4all.nl>
+
+
+# Result ( based on example config A )
+
+![img](https://github.com/mrop/FractalWithRotationSymmetry/blob/master/out.jpg)
