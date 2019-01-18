@@ -19,7 +19,7 @@ The color is determined using a histogram of the distribution.
 
 # Usage
 
-Usage: python Icon --config==[FILENAME]
+Usage: python Icon.py --config==[FILENAME]
 Construct an icon 2D mapping based on the parameters in [FILENAME]
 Example: python Icon -c exampleA.cfg -v
 
